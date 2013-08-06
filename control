@@ -1,5 +1,5 @@
 Source: dateutils
-Section: devel
+Section: utils
 Priority: extra
 Maintainer: Matthew Fischer <matthew.fischer@ubuntu.com>
 Build-Depends: gengetopt,
@@ -10,9 +10,11 @@ Build-Depends: gengetopt,
  debhelper (>= 9.0.0),
  dh-buildinfo,
  dh-autoreconf,
- dpkg-dev (>= 1.16.1~)
+ dpkg-dev (>= 1.16.1~),
+ help2man,
+ libltdl-dev
 Standards-Version: 3.9.4
-Homepage: http://hroptatyr.github.com/dateutils/
+Homepage: http://www.fresse.org/dateutils
 Vcs-Git: git://github.com/hroptatyr/dateutils.git
 Vcs-Browser: https://github.com/hroptatyr/dateutils/
 
