@@ -1,3 +1,9 @@
+dateutils (0.3.0-1) unstable; urgency=low
+
+  * Update to latest upstream.
+
+ -- Sebastian Freundt <freundt@fresse.org>  Tue, 26 Aug 2014 06:48:11 +0000
+
 dateutils (0.2.7-1) unstable; urgency=low
 
   * Update to latest upstream.
