@@ -18,7 +18,8 @@ override_dh_auto_configure:
 override_dh_auto_clean:
 	[ -f Makefile ] && dh_auto_clean || true
 	rm -f info/dadd.manu info/dconv.man info/ddiff.mand info/dgrep.man \
-	info/dround.manu info/dseq.manu info/dtest.man info/strptime.man
+	info/dround.manu info/dseq.manu info/dtest.man info/dzone.man \
+	info/strptime.man
 
 override_dh_auto_install:
 	dh_auto_install
