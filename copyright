@@ -3,7 +3,7 @@ Upstream-Name: dateutils
 Source: https://github.com/hroptatyr/dateutils/downloads/
 
 Files: *
-Copyright: 2010-2012 Sebastian Freundt
+Copyright: 2010-2014 Sebastian Freundt
 License: BSD 3-clause
  Redistribution and use in source and binary forms, with or without
  modification, are permitted under the terms of the BSD License.
@@ -21,7 +21,7 @@ License: BSD 3-clause
  SUCH DAMAGE.
 
 Files: debian/*
-Copyright: 2010-2013 Sebastian Freundt
+Copyright: 2010-2014 Sebastian Freundt
            2013 Matthew Fischer <matthew.fischer@ubuntu.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
